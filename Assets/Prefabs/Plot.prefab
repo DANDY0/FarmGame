@@ -214,6 +214,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   availableColor: {r: 0, g: 1, b: 0, a: 1}
   unavailableColor: {r: 1, g: 0, b: 0, a: 1}
+  drySprite: {fileID: -190646009, guid: 900e7516a7388224ebdfa55ee082a468, type: 3}
+  normalSprite: {fileID: 1576949595, guid: 2a644dcabc6268f42805dc85d679a398, type: 3}
+  unavailableSprite: {fileID: 1565279238, guid: 900e7516a7388224ebdfa55ee082a468, type: 3}
+  isBought: 1
 --- !u!60 &8948846522809195364
 PolygonCollider2D:
   m_ObjectHideFlags: 0
