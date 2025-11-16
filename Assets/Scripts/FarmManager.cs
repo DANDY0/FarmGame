@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -8,7 +9,7 @@ public class FarmManager : MonoBehaviour
     public PlantItem selectPlant;
     public bool isPlanting = false;
     public int money=100;
-    public Text moneyTxt;
+    public TextMeshProUGUI moneyTxt;
 
     public Color buyColor = Color.green;
     public Color cancelColor = Color.red;

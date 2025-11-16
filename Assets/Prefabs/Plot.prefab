@@ -73,7 +73,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: -145510240, guid: 2a644dcabc6268f42805dc85d679a398, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -212,11 +212,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 60797aa6ef10e10449f8c08cda556e87, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  plantStages:
-  - {fileID: -328606073, guid: 2a644dcabc6268f42805dc85d679a398, type: 3}
-  - {fileID: -1324301193, guid: 2a644dcabc6268f42805dc85d679a398, type: 3}
-  - {fileID: -637197711, guid: 2a644dcabc6268f42805dc85d679a398, type: 3}
-  - {fileID: -2122419439, guid: 2a644dcabc6268f42805dc85d679a398, type: 3}
+  availableColor: {r: 0, g: 1, b: 0, a: 1}
+  unavailableColor: {r: 1, g: 0, b: 0, a: 1}
 --- !u!60 &8948846522809195364
 PolygonCollider2D:
   m_ObjectHideFlags: 0

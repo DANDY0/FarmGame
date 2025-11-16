@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -7,12 +8,12 @@ public class PlantItem : MonoBehaviour
 {
     public PlantObject plant;
 
-    public Text nameTxt;
-    public Text priceTxt;
+    public TextMeshProUGUI nameTxt;
+    public TextMeshProUGUI priceTxt;
     public Image icon;
 
     public Image btnImage;
-    public Text btnTxt;
+    public TextMeshProUGUI btnTxt;
 
     FarmManager fm;
 
