@@ -12,14 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 90b593e52c826c143a7a6d255eae3cef, type: 3}
   m_Name: 2-Sunflower
   m_EditorClassIdentifier: 
-  plantName: Tomato
+  plantName: Sunflower
   plantStages:
-  - {fileID: -1048744039, guid: 2a644dcabc6268f42805dc85d679a398, type: 3}
-  - {fileID: -178255441, guid: 2a644dcabc6268f42805dc85d679a398, type: 3}
-  - {fileID: 1495528914, guid: 2a644dcabc6268f42805dc85d679a398, type: 3}
-  - {fileID: -887662754, guid: 2a644dcabc6268f42805dc85d679a398, type: 3}
-  timeBtwStages: 3
-  buyPrice: 15
-  sellPrice: 30
-  icon: {fileID: 1080352597, guid: 2a644dcabc6268f42805dc85d679a398, type: 3}
+  - {fileID: -785944118, guid: 2a644dcabc6268f42805dc85d679a398, type: 3}
+  - {fileID: 2133853062, guid: 2a644dcabc6268f42805dc85d679a398, type: 3}
+  - {fileID: -1613525300, guid: 2a644dcabc6268f42805dc85d679a398, type: 3}
+  - {fileID: -145510240, guid: 2a644dcabc6268f42805dc85d679a398, type: 3}
+  timeBtwStages: 4
+  buyPrice: 5
+  sellPrice: 10
+  icon: {fileID: 957632603, guid: 2a644dcabc6268f42805dc85d679a398, type: 3}
   dryPlanted: {fileID: 0}
