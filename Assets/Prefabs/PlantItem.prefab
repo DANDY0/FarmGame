@@ -411,7 +411,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Button
+  m_text: Buy
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 2d22f5f7098263d409b366f41cc1c3c1, type: 2}
   m_sharedMaterial: {fileID: 8863524439435036683, guid: 2d22f5f7098263d409b366f41cc1c3c1, type: 2}
